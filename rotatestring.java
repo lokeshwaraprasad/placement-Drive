@@ -1,55 +1,4 @@
 /*
-LeetCode Logo
-
-String
-Debugging...
-Debugging...
-
-
-
-
-
-
-
-
-
-0
-0Streaks
-Now or Never!
-DCC Badge
-
-avatar
-Avatar
-Lokesh
-Access all features with our Premium subscription!
-myLists
-My Lists
-notebook
-Notebook
-progress
-Progress
-points
-Points
-Try New Features
-Orders
-My Playgrounds
-Settings
-Appearance
-Sign Out
-Premium
-Description
-Editorial
-Editorial
-Solutions
-Solutions
-Submissions
-Submissions
-
-
-Code
-Testcase
-Testcase
-Test Result
 796. Rotate String
 Solved
 Easy
@@ -118,25 +67,6 @@ class Solution {
         return (s + s).contains(goal);
     }
 }
-
-Saved
-Accepted
-Runtime: 0 ms
-Case 1
-Case 2
-Input
-s =
-"abcde"
-goal =
-"cdeab"
-Output
-true
-Expected
-true
-Contribute a testcase
-
-String
-Search questions
 
 
 
